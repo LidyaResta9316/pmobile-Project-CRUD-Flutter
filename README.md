@@ -1,1 +1,3 @@
-# pmoble-project-akhir-kelompok
+LIDYA MARESTA
+NIM - 20190801068
+PEMROGRAMAN MOBILE EU001
